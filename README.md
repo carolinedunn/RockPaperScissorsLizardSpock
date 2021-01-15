@@ -1,6 +1,8 @@
 # Rock Paper Scissors Lizard Spock game for Raspberrry Pi
 Python 3 code to play **Rock Paper Scissors Lizard Spock**
 
+Tutorial Posted on Tom's Hardware - https://www.tomshardware.com/how-to/raspberry-pi-rock-paper-scissors 
+
 Screenshot for **1-RPS-text.py**
 ![Rock Paper Scissors](https://github.com/carolinedunn/rockpaperscissorslizardspock/blob/main/screenshots/Screen%20Shot%202020-12-23%20at%203.52.21%20PM.png)
 
